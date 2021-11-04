@@ -2,9 +2,9 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/surya" name="Wave-Project/device_xiaomi_surya.git" remote="github" revision="lineage-18.1" />
- <project path="device/xiaomi/sm6150-common" name="Wave-Project/device_xiaomi_surya.git" remote="github" revision="lineage-18.1" />
- <project path="vendor/xiaomi" name="Wave-Project/vendor_xiaomi_surya.git" remote="github" revision="master" />
- <project path="kernel/xiaomi/surya" name="ghostrider-reborn/android_kernel_xiaomi_surya.git" remote="github" revision="lineage-18.1" />
+ <project path="device/xiaomi/surya" name="Wave-Project/device_xiaomi_surya.git" remote="github" revision="r" />
+ <project path="device/xiaomi/sm6150-common" name="Wave-Project/device_xiaomi_surya.git" remote="github" revision="r" />
+ <project path="vendor/xiaomi" name="Wave-Project/vendor_xiaomi_surya.git" remote="github" revision="r" />
+ <project path="kernel/xiaomi/surya" name="ghostrider-reborn/android_kernel_xiaomi_surya.git" remote="github" revision="staging/LA.UM.9.x" />
  
 </manifest>
